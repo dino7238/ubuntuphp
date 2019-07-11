@@ -1,0 +1,5 @@
+#layer_popup { width:400px; height:500px; text-align:center; position:relative; }
+.close div{float:left; text-align:right;}
+#check{font-size:12px; font-family:'돋움'; position:absolute; bottom:9px; right:45px; }
+#close{font-size:12px; position:absolute; bottom:9px; right:10px; }
+#close a { color:#fff; }
